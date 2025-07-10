@@ -41,5 +41,5 @@ The dataset consists of images of fish, categorized into folders by 11 species. 
     - Provide model confidence scores.
 
 ## CNN Architecture:
-
+![CNN](https://github.com/Priyadharshini8163/Multiclass-Fish-Image-Classification/blob/main/CNN%20Architecture.png)
 
