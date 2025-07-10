@@ -7,7 +7,7 @@ This project focuses on classifying fish images into multiple categories using d
 3.	Model Comparison: Evaluate and compare metrics across models to select the most suitable approach for the task.
 
 ### Dataset
-The dataset consists of images of fish, categorized into folders by species. The dataset is loaded using TensorFlow's ImageDataGenerator for efficient processing.
+The dataset consists of images of fish, categorized into folders by 11 species. The dataset is loaded using TensorFlow's ImageDataGenerator for efficient processing.
 - data
   - test
     - class 1
@@ -36,8 +36,10 @@ The dataset consists of images of fish, categorized into folders by species. The
   - Visualize training history (accuracy and loss) for each model.
 - Deployment
   - Build a Streamlit application to:
-   - Allow users to upload fish images.
-   - Predict and display the fish category.
-   - Provide model confidence scores.
+    - Allow users to upload fish images.
+    - Predict and display the fish category.
+    - Provide model confidence scores.
+
+## CNN Architecture:
 
 
